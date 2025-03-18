@@ -4,7 +4,7 @@
 # 📌 Task Breakdown
 # 📊 Task 1: Create A Sales Dashboard
 
-🔗 [View Task 1]()
+🔗 [View Task 1](https://github.com/RNandini-11/CodTech-IT-Solutions/tree/main/Task%201%20-%20Create%20A%20Sales%20Dashboard)
 
 # 📈 Task 2: Data Integration with Multiple Resources
 
