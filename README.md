@@ -1,4 +1,4 @@
-# 🎯CodTech-IT-Solutions Power BI Internship
+# 🎯CodTech IT Solutions Power BI Internship
 
 
 # 📌 Task Breakdown
