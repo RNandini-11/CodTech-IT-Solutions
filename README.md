@@ -8,7 +8,7 @@
 
 # 📈 Task 2: Data Integration with Multiple Resources
 
-🔗 [View Task 2]()
+🔗 [View Task 2](https://github.com/RNandini-11/CodTech-IT-Solutions/tree/main/Task%202%20-%20Data%20Integration%20from%20Multiple%20Sources)
 
 # 💰 Task 3: Real-Time Dashboard
 🔗 [View Task 3]()
