@@ -12,7 +12,7 @@
 
 💰 Task 3: Real-Time Dashboard
 
-🔗 [View Task]()
+🔗 [View Task](https://github.com/RNandini-11/CodTech-IT-Solutions/tree/main/Task%203%20-%20Real-Time%20Dashboard)
 
 ⏳ Task 4: Integration with Python or R
 
